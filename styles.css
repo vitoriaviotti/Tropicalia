@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: hsla(330, 100%, 58%, 0.349);
+    --rosa-claro: #ff299459;
     }
 
     body {
@@ -21,7 +21,7 @@
 
 
                     .nav-link {
-                        color: hsla(330, 57%, 53%, 0.568);
+                        color: #b34786c4;
                             font-weight: 600;
                             }
 
@@ -129,7 +129,7 @@
                                                                                                                                                                                                                                                                             }
 
                                                                                                                                                                                                                                                                             .formulario button {
-                                                                                                                                                                                                                                                                                background-color: #CB6D43;
+                                                                                                                                                                                                                                                                                background-color: #b34786c4;
                                                                                                                                                                                                                                                                                     border: none;
                                                                                                                                                                                                                                                                                         font-weight: bold;
                                                                                                                                                                                                                                                                                         }
